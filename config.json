@@ -1,0 +1,6 @@
+{
+  "username": "xxxx",
+  "password": "xxxx",
+  "loginURL" :"http://xxxxx:7777",
+  "queryURL" : "http://xxxxx:7777/Search.ashx"
+}

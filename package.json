@@ -1,0 +1,21 @@
+{
+  "name": "rets-restful",
+  "version": "1.0.0",
+  "description": "restful way to interact with rets servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rets",
+    "node",
+    "restful"
+  ],
+  "dependencies": {
+    "request": "^2.75.0",
+    "rets-client": "^4.6.0",
+    "xml2js": "^0.4.17"
+  },
+  "author": "Talha Awan",
+  "license": "MIT"
+}
