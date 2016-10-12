@@ -1,6 +1,6 @@
 # rets-restful
 
-A nodejs code to connect to rets servers restfully and search the records.
+A nodejs code to connect to RETS (Real Estate Transaction Standard) servers restfully and search the records.
 
 ## Usage
 1. Clone
